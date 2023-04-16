@@ -34,4 +34,4 @@ jobs:
         with:
             push: ${{ github.event_name != 'pull_request' }}
             tags: ${{ steps.meta.outputs.tags }}
-            github-token: true
+            github-token: ${{ github.token }}
