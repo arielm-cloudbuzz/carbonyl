@@ -15,6 +15,9 @@ O —— Cr —— O
   </tbody>
 </table>
 
+
+## [![Docker Image CI](https://github.com/arielm-cloudbuzz/carbonyl/actions/workflows/docker-image.yml/badge.svg)](https://github.com/arielm-cloudbuzz/carbonyl/actions/workflows/docker-image.yml)
+
 Carbonyl is a Chromium based browser built to run in a terminal. [Read the blog post](https://fathy.fr/carbonyl).
 
 It supports pretty much all Web APIs including WebGL, WebGPU, audio and video playback, animations, etc..
